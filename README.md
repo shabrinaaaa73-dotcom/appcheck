@@ -137,6 +137,24 @@ check-in (pin lokasi + kamera + checkmark, warna navy & hijau sesuai brand app).
 > Ganti placeholder di atas dengan gambar dari folder `screenshots/build/`
 > setelah kamu selesai menjalankan `eas build`.
 
+<!--
+CARA PAKAI:
+1. Buat folder baru bernama "device" di dalam folder "screenshots" repo kamu
+   (screenshots/device/)
+2. Upload 3 file screenshot kamu (scrcpy_aktif.png, adb_devices.png, usb_debugging.png)
+   ke folder screenshots/device/ itu lewat GitHub (Add file > Upload files)
+3. Copy-paste section di bawah ini ke README.md kamu — taruh SETELAH bagian
+   "🚀 Build & Instalasi APK (Misi 14)" dan SEBELUM "📁 Struktur Project"
+-->
+
+## 📱 Bukti Koneksi Device (Scrcpy & ADB)
+
+| USB Debugging Aktif | Device Terdeteksi (ADB) | Scrcpy Live Mirroring |
+|---|---|---|
+| ![USB Debugging](https://github.com/shabrinaaaa73-dotcom/appcheck/raw/master/screenshots/usb.jpeg) | ![ADB Devices](https://github.com/shabrinaaaa73-dotcom/appcheck/raw/master/screenshots/adb.jpeg) | ![Scrcpy Aktif](https://github.com/shabrinaaaa73-dotcom/appcheck/raw/master/screenshots/scrpy.jpeg) |
+
+Device: **TECNO CM5 (Android 16)** — terhubung via USB, terverifikasi `adb devices` berstatus `device`, dan berhasil di-mirror penuh melalui `scrcpy 4.0`.
+
 ## 📁 Struktur Project
 
 ```
