@@ -9,7 +9,7 @@ Aplikasi absensi/check-in berbasis React Native (Expo) yang menggabungkan
 lengkap dengan permission flow yang benar, penyimpanan riwayat lokal, dan
 tampilan UI modern (gradient, ikon, card statistik).
 
-📦 **Download APK:** `<TEMPEL LINK EAS ARTIFACT DI SINI SETELAH BUILD SELESAI>`
+📦 **Download APK:** `<https://expo.dev/accounts/shb73/projects/checkin-app/builds/4ae9da74-667b-4e9b-aab8-39b290fde5f0>`
 (lihat [RELEASE.md](./RELEASE.md) untuk detail proses build lengkap)
 
 ## 📱 Deskripsi
