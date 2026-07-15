@@ -125,8 +125,8 @@ App ini sudah dikonfigurasi penuh untuk EAS Build (lihat `app.json` &
 check-in (pin lokasi + kamera + checkmark, warna navy & hijau sesuai brand app).
 
 - 📄 Dokumentasi lengkap langkah build: **[RELEASE.md](./RELEASE.md)**
-- 📦 Link download APK: `<TEMPEL LINK EAS ARTIFACT DI SINI>`
-- 📱 Package name Android: `com.mahasiswa.checkinapp`
+- 📦 Link download APK: `<https://expo.dev/accounts/shb73/projects/checkin-app/builds/4ae9da74-667b-4e9b-aab8-39b290fde5f0>`
+- 📱 Package name Android: `com.shabrina.checkinapp`
 
 **Screenshot bukti proses build & instalasi:**
 
