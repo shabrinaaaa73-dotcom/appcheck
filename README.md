@@ -25,7 +25,7 @@ Riwayat check-in disimpan secara lokal (AsyncStorage) sehingga tetap ada saat
 aplikasi ditutup dan dibuka kembali.
 
 ## 🔐 Fitur Native yang Dipakai
-
+t
 | Fitur | Modul |
 |---|---|
 | Kamera & Galeri | `expo-image-picker` |
@@ -62,11 +62,23 @@ aplikasi ditutup dan dibuka kembali.
 
 ## 🛠️ Tech Stack
 
-- React Native + Expo SDK 51
-- expo-image-picker, expo-location
-- @react-native-async-storage/async-storage
-- expo-linear-gradient, @expo/vector-icons (UI modern: gradient & ikon)
-- JavaScript (functional components + hooks)
+| Teknologi | Kegunaan |
+|---|---|
+| React Native (Expo SDK 51) | Framework utama untuk membangun aplikasi mobile |
+| expo-image-picker | Mengakses kamera & galeri untuk mengambil foto selfie |
+| expo-location | Mengambil koordinat GPS & mengubahnya jadi nama tempat (reverse geocoding) |
+| @react-native-async-storage/async-storage | Menyimpan riwayat check-in secara lokal di HP |
+| expo-linear-gradient | Membuat efek gradient pada tampilan UI |
+| @expo/vector-icons | Menyediakan ikon-ikon di UI |
+| JavaScript (Hooks) | Bahasa & pola pemrograman React yang dipakai |
+
+## 👩‍💻 Developer
+
+| Info | Keterangan |
+|---|---|
+| Nama | Shabrina |
+| NIM | 243303621210 |
+| Institusi | Universitas Prima Indonesia |
 
 ## 🚀 Cara Menjalankan
 
