@@ -82,16 +82,20 @@ t
 
 ## 🚀 Cara Menjalankan
 
-```bash
-# 1. Install dependencies
+## 🚀 Cara Menjalankan
+
+# 1. Clone repository
+git clone https://github.com/shabrinaaaa73-dotcom/appcheck.git
+cd appcheck
+
+# 2. Install dependencies
 npm install
 
-# 2. Jalankan Expo dev server
+# 3. Jalankan Expo dev server
 npx expo start
 
-# 3. Scan QR code dengan aplikasi Expo Go di HP fisik
+# 4. Scan QR code dengan aplikasi Expo Go di HP fisik
 #    (pastikan HP & laptop berada di jaringan WiFi yang sama)
-```
 
 > **Catatan:** Kamera dan GPS membutuhkan hardware fisik. Jalankan di HP
 > asli via Expo Go, bukan di emulator, agar kedua fitur berfungsi penuh.
